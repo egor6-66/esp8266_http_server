@@ -1,0 +1,16 @@
+{
+  "name": "esp8266_http_server",
+  "version": "1.0.0",
+  "description": "This directory is intended for project specific (private) libraries. PlatformIO will compile them to static libraries and link into executable file.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
