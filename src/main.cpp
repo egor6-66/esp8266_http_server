@@ -25,5 +25,7 @@ void loop()
   else
   {
     Serial.println("fuck");
+     localServer.Reconnect();
+     delay(30000);
   }
 }
