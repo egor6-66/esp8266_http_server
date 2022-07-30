@@ -2,9 +2,12 @@
 
 #include "config.h"
 
+
 class LocalServer
 {
 private:
+
+
 public:
     String GetEpSsid();
     String GetEpPass();
